@@ -1,0 +1,9 @@
+mkdir nomepasta -> Cria uma pasta com o nome escolhido no diretório atual
+type nul > nomearquivo.js -> Cria um arquivo em qualquer extensão desejada.
+cd nomepasta -> Entra na pasta
+cd.. -> Volta uma pasta/ sobe um nível na estrutura de pastas
+dir -> Lista os diretórios da pasta atual
+cls -> Limpa o terminal
+node + nome do arquivo -> Para fazer teste
+npm install pacote -> Instala o pacote desejado
+npm remove pacote -> Remove o pacote desejado
