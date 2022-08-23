@@ -9,7 +9,7 @@ app.set('view engine', 'ejs');
 // Configurando rotas
 app.get('/', (req, res) => 
 {
-    const bandas = ['Lucas', 'Lucineide', 'Léo'];
+    const bandas = ['Lucas', 'Lucineide', 'Léo', 'Testando'];
     res.render('paginas/index', {bandas});
 });
 

@@ -8,6 +8,7 @@ node + nome do arquivo -> Para fazer teste
 npm install pacote -> Instala o pacote desejado
 npm install -g pacote -> cria o arquivo na raiz do node
 npm remove pacote -> Remove o pacote desejado
+nodemon + nome do arquvido -> Para testar
 npm init -> Cria package.json
 http://localhost:8080/ -> testando servidor
 ctrl C -> Para o servidor
